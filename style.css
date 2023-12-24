@@ -43,7 +43,7 @@ body {
   display: grid;
 }
 
-.back a p h4{
+.back a, p, h4{
   display: grid;
   justify-content: center;
   align-items: center;
